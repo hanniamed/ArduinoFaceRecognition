@@ -1,0 +1,20 @@
+#Mejoras de la prueba 1 para la prueba 2 
+#30.08.23
+-Detectar solo un rostro de lo contrario mandar mensaja con un 
+ put text que solo un rostro se asome para el reconocimiento
+-eliminar estado de leds despues de 3 segundos que no se detecte un rostro
+
+Prueba 2.- Python manda señal a arduino, si el usuario es detectado que se prenda un led verde, si no uno rojo, 
+solo un rostro debe de ser detectado de lo contrario se manda un mensaje de alerta, los estado de los led se eliminaran 
+despues de 3 segundos de no detectar rostro.
+
+Python:
+	Deteccion y reconocimiento *
+	
+    consultas SQL 
+	
+    Ejecutable .exe 
+
+Arduino:
+	Encendido y apagado de Led verde y rojo * 
+    
